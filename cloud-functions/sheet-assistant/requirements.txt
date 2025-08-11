@@ -1,0 +1,7 @@
+requests>=2.31.0
+google-cloud-secret-manager>=2.16.4
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+google-api-python-client
+Flask
